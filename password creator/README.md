@@ -34,6 +34,8 @@ python password_generator.py
 Enter password length: 8
 
 Generated Password: A7k2Pq9X
+<img width="1920" height="1080" alt="Screenshot 2026-06-16 221304" src="https://github.com/user-attachments/assets/580b0ed4-0db7-4cfc-a1a1-59e37f7e67b7" />
+
 
 ## Purpose
 
