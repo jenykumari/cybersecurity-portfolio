@@ -20,6 +20,10 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
  <img width="1458" height="905" alt="Screenshot 2026-06-21 133306" src="https://github.com/user-attachments/assets/71d21274-7d2d-470d-bc81-d274f7812750" />
 
  ### TryHackMe 
+ - ## TryHackMe
+
+Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts and hands-on exercises.
+
 
  
  
