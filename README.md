@@ -21,7 +21,8 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 
  ### TryHackMe 
 
-Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts and hands-on exercises.
+Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts and hands-on exercises. 
+Screenshots of completed rooms are available in TryHackMe.md
 
 
  
