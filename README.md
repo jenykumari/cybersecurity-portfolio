@@ -17,6 +17,7 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 - Cisco:
  <img width="1358" height="915" alt="image" src="https://github.com/user-attachments/assets/eb67d2b3-60ce-4205-830e-0e81aeb64181" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67d8c35d-f0fc-4e50-afe1-e86afe92da17" />
+<img width="1458" height="905" alt="Screenshot 2026-06-21 133306" src="https://github.com/user-attachments/assets/883d04c6-0102-442c-9eee-ad80a66c91cb" />
+
 
 
