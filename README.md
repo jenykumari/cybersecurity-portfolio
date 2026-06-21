@@ -5,9 +5,9 @@ Welcome to my cybersecurity learning portfolio.
 I am a beginner in cybersecurity with a strong interest in learning how computers, networks, and applications can be protected from cyber threats. 
 
 ## Highlights
--python security projects
--cisco introduction to cybersecurity
--TryHackMe learning
+- Python security projects
+- cisco introduction to cybersecurity
+- TryHackMe learning
 
 ## Projects
 - Password Strength Checker
