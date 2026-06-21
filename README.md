@@ -1,9 +1,19 @@
-# Cybersecurity Portfolio
+## Cybersecurity Portfolio
 
 Welcome to my cybersecurity learning portfolio.
 
-I am a beginner in cybersecurity with a strong interest in learning how computers, networks, and applications can be protected from cyber threats. This repository documents my journey through hands-on labs, projects, technical notes, and security challenges.
+I am a beginner in cybersecurity with a strong interest in learning how computers, networks, and applications can be protected from cyber threats. 
 
-My goal is to develop practical cybersecurity skills, strengthen my understanding of security concepts, and continuously learn through experimentation and problem-solving.
+## Highlights
+-python security projects
+-cisco introduction to cybersecurity
+-TryHackMe learning
 
-This portfolio will be updated regularly as I explore new topics, complete projects, and expand my knowledge of cybersecurity.
+## Projects
+- Password Strength Checker
+- Password generator
+
+### Certifications
+- Cisco:
+- [Introduction_to_Cybersecurity_certificate_jenypandey1020-gmail-com_becead34-9d41-45fe-922a-8b052089da01.pdf](https://github.com/user-attachments/files/29173031/Introduction_to_Cybersecurity_certificate_jenypandey1020-gmail-com_becead34-9d41-45fe-922a-8b052089da01.pdf)
+
