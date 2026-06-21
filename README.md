@@ -15,5 +15,6 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 
 ### Certifications
 - Cisco:
-- [Introduction_to_Cybersecurity_certificate_jenypandey1020-gmail-com_becead34-9d41-45fe-922a-8b052089da01.pdf](https://github.com/user-attachments/files/29173031/Introduction_to_Cybersecurity_certificate_jenypandey1020-gmail-com_becead34-9d41-45fe-922a-8b052089da01.pdf)
+ <img width="1358" height="915" alt="image" src="https://github.com/user-attachments/assets/eb67d2b3-60ce-4205-830e-0e81aeb64181" />
+
 
