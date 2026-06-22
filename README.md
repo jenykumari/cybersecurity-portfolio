@@ -21,13 +21,13 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 Successfully completed the Cisco Networking Academy **Introduction to Cybersecurity** course.
 This course introduced fundamental cybersecurity concepts including cyber threats, data protection, network security, and safe online practices.
 
-My Cisco Introduction to Cybersecurity certificate is available in Certificates.md.
+My Cisco Introduction to Cybersecurity certificate is available in 'Certificates.md'.
 
 
  ### TryHackMe 
 
 Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts and hands-on exercises. 
-Screenshots of completed rooms are available in TryHackMe.md
+Screenshots of completed rooms are available in 'TryHackMe.md'.
 
 
  
