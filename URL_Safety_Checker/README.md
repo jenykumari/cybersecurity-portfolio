@@ -22,4 +22,3 @@ A Python-based cybersecurity tool that analyzes URLs and identifies potential se
 * Python
 * Lists
 * Loops
-* Conditional Statements
