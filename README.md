@@ -12,6 +12,7 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 ## Projects
 - Password Strength Checker
 - Password generator
+- URL Safety checker
 
 ### Certifications
 - Cisco Networking Academy
