@@ -6,9 +6,9 @@ Successfully completed the Cisco Networking Academy "Introduction to Cybersecuri
 
 ### Certificate
 
-
-
+ <img width="1358" height="915" alt="image" src="https://github.com/user-attachments/assets/eb67d2b3-60ce-4205-830e-0e81aeb64181" />
+ 
 ### Digital Badge
 
-![Cisco Badge](badge.png)
+
 
