@@ -2,7 +2,7 @@
 
 ## Program Output Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/682d471d-e94e-49aa-b88a-d98333f84465" />
+<img width="1920" height="1080" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/ee215584-04ad-4e0c-916a-6c23d882127f" />
 
 ## About
 
