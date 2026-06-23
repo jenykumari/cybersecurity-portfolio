@@ -10,9 +10,9 @@ I am a beginner in cybersecurity with a strong interest in learning how computer
 - TryHackMe learning
 
 ## Projects
-- Password Strength Checker
-- Password generator
-- URL Safety checker
+-  URL Safety checker
+- Suspicious IP Detector
+- 
 
 ## Certifications
 
