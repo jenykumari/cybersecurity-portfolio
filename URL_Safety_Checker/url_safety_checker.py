@@ -1,5 +1,3 @@
-# URL Safety Checker
-
 trusted_domains = ["google.com", "microsoft.com", "wikipedia.org","iitk.ac.in", "google.com", "nist.gov", "github.com"]
 
 suspicious_words = ["verify", "login", "account", "bank", "claim", "password", "payment", 
