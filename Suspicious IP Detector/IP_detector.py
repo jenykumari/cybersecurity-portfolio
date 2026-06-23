@@ -1,4 +1,3 @@
-
 ip = input("Enter an IP address: ")
 
 parts = ip.split(".")
