@@ -1,4 +1,4 @@
-# Password Generator & Strength Checker
+# Password Generator 
 
 ## Program Output Screenshot
 
