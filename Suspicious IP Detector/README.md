@@ -1,6 +1,6 @@
 #  Suspicious IP Detector
 
-## Input screenshot
+## Program output screenshot
 
 <img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/5d1d5904-a614-49eb-a804-e323be124c1b" />
 
