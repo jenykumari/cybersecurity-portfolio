@@ -28,6 +28,7 @@ Certificate details are available in 'Certificates.md'.
  ### TryHackMe 
 
 Completed cybersecurity learning rooms on TryHackMe, gaining hands-on experience with Linux fundamentals, cybersecurity concepts, and practical exercises. 
+
 Screenshots of completed rooms are available in 'TryHackMe.md'.
 
 
