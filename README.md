@@ -27,7 +27,7 @@ My Cisco Introduction to Cybersecurity certificate is available in 'Certificates
 
  ### TryHackMe 
 
-Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts and hands-on exercises. 
+Completed beginner cybersecurity learning rooms on TryHackMe to gain practical exposure to cybersecurity concepts including linux fundamentals and hands-on exercises. 
 Screenshots of completed rooms are available in 'TryHackMe.md'.
 
 
